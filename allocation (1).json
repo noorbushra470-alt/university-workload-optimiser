@@ -1,0 +1,158 @@
+{
+  "schema_version": "1.0",
+  "module_leaders": {
+    "Module 4": "Alice",
+    "Module 2": "Bob",
+    "Module 1": "Charlie",
+    "Module 5": "Edward",
+    "Module 3": "Fiona"
+  },
+  "practicals": {
+    "Module 1": [
+      {
+        "group_index": 0,
+        "staff_id": "Diana"
+      },
+      {
+        "group_index": 1,
+        "staff_id": "Charlie"
+      },
+      {
+        "group_index": 2,
+        "staff_id": "Charlie"
+      },
+      {
+        "group_index": 3,
+        "staff_id": "Charlie"
+      },
+      {
+        "group_index": 4,
+        "staff_id": "Charlie"
+      }
+    ],
+    "Module 2": [
+      {
+        "group_index": 0,
+        "staff_id": "Bob"
+      },
+      {
+        "group_index": 1,
+        "staff_id": "Bob"
+      }
+    ],
+    "Module 3": [
+      {
+        "group_index": 0,
+        "staff_id": "Fiona"
+      },
+      {
+        "group_index": 1,
+        "staff_id": "Fiona"
+      },
+      {
+        "group_index": 2,
+        "staff_id": "Fiona"
+      }
+    ],
+    "Module 4": [
+      {
+        "group_index": 0,
+        "staff_id": "Alice"
+      },
+      {
+        "group_index": 1,
+        "staff_id": "Alice"
+      },
+      {
+        "group_index": 2,
+        "staff_id": "Alice"
+      }
+    ],
+    "Module 5": [
+      {
+        "group_index": 0,
+        "staff_id": "Edward"
+      },
+      {
+        "group_index": 1,
+        "staff_id": "Edward"
+      },
+      {
+        "group_index": 2,
+        "staff_id": "Edward"
+      },
+      {
+        "group_index": 3,
+        "staff_id": "Edward"
+      },
+      {
+        "group_index": 4,
+        "staff_id": "Diana"
+      },
+      {
+        "group_index": 5,
+        "staff_id": "Diana"
+      }
+    ]
+  },
+  "supervision": {
+    "FY01": "Alice",
+    "FY08": "Alice",
+    "FY09": "Alice",
+    "FY16": "Alice",
+    "FY20": "Alice",
+    "FY11": "Bob",
+    "FY12": "Bob",
+    "FY13": "Bob",
+    "FY14": "Bob",
+    "FY15": "Bob",
+    "FY02": "Charlie",
+    "FY03": "Charlie",
+    "FY19": "Charlie",
+    "FY04": "Diana",
+    "FY05": "Diana",
+    "FY06": "Diana",
+    "FY07": "Diana",
+    "FY10": "Diana",
+    "FY17": "Edward",
+    "FY18": "Edward"
+  },
+  "staff_workload": {
+    "Alice": {
+      "teaching": 945,
+      "admin": 187,
+      "research": 1028,
+      "total": 2160
+    },
+    "Bob": {
+      "teaching": 855,
+      "admin": 168,
+      "research": 1137,
+      "total": 2160
+    },
+    "Charlie": {
+      "teaching": 1035,
+      "admin": 225,
+      "research": 900,
+      "total": 2160
+    },
+    "Diana": {
+      "teaching": 765,
+      "admin": 165,
+      "research": 1230,
+      "total": 2160
+    },
+    "Edward": {
+      "teaching": 990,
+      "admin": 234,
+      "research": 936,
+      "total": 2160
+    },
+    "Fiona": {
+      "teaching": 720,
+      "admin": 192,
+      "research": 1248,
+      "total": 2160
+    }
+  }
+}
